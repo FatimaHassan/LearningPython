@@ -8,3 +8,5 @@ def createTuples():
   print(tuple(list))
   emptyTuple = tuple(list)
   print(emptyTuple)
+  print(emptyTuple)
+
