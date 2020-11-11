@@ -5,6 +5,3 @@ def lists():
     cars.insert(4 , "Hyundai")
     print(cars[4])
     
-
-
-

@@ -15,7 +15,7 @@ if __name__ == '__main__':
     #p1 = Person("John", 36)
     #p1.myfunc()
     #lists()
-    createTuples()
+    #createTuples()
 
 
 

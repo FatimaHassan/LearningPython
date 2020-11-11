@@ -10,3 +10,5 @@ def createTuples():
   print(emptyTuple)
   print(emptyTuple)
 
+createTuples()
+
